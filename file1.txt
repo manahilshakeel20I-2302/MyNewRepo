@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 MY name is Manahil Shakeel.
 my fav color is red.
-=======
->>>>>>> parent of f10ee29 (Second commit)
